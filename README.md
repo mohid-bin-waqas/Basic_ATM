@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Mohid Bin Waqas</h1>
-<h3 align="center">💻 A Passionate Coder | 🌐 Web Developer | 🎮 Game Developer</h3>
+<h3 align="center">💻 A Passionate Coder | 🌐 Web Developer | UI & UX Designer</h3>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 - 🔥 Passionate about **Web Development & Game Development**  
-- 🌱 Currently learning **C# & Unity for Game Development**  
+- 🌱 Currently learning **UI & UX Designing**  
 - 💡 Love solving problems and building creative projects  
 - 🎯 Preferred Languages: **HTML, CSS, JavaScript, Bootstrap, C, C++, C#**  
 - ⚡ Fun Fact: Coding feels like magic when logic meets creativity ✨  
